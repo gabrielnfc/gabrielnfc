@@ -5,9 +5,9 @@
 <a href="https://instagram.com/gabrielnfc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/gabrielnfc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dracula)
-
+![Snake animation](https://github.com/gabrielnfc/devemdobro/blob/output/github-contribution-grid-snake.svg)
+   
 ### Tecnologias que uso no  meu dia
 
 <div style="display: inline_block"><br/>
@@ -22,6 +22,3 @@ Sou um desenvolvedor curioso, que ja fez de tudo um pouco nessa vida, e hoje sig
 
 ## Contato:
 <a href="https://api.whatsapp.com/qr/GFEOWFFQFLEZI1?autoload=1&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/devemdobro/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
-
