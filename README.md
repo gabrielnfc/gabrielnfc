@@ -6,7 +6,7 @@
 <a href="https://www.twitch.tv/gabrielnfc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dracula)
-![Snake animation](https://github.com/gabrielnfc/devemdobro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
    
 ### Tecnologias que uso no  meu dia
 
