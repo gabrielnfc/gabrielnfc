@@ -1,5 +1,4 @@
-
-### Olá! Eu sou o Gabriel Nascimento 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=210&section=header&text=Gabriel%20Nascimento&fontSize=30&fontColor=f7f5f5&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
 <a href="https://www.linkedin.com/in/gabrielnfc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/gabrielnfc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
