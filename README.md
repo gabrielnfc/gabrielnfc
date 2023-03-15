@@ -8,11 +8,12 @@
    </div><br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
-  </div>
-  
-![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
+   <a href="https://github.com/gabrielnfc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&theme=dracula"/>
+
+ ![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
 ### Tecnologias que uso no  meu dia   
 
