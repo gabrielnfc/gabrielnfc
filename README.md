@@ -11,8 +11,7 @@
    <a href="https://github.com/gabrielnfc">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&theme=dracula"/>
-
- ![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 ### Tecnologias que uso no  meu dia   
