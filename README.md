@@ -89,7 +89,7 @@
 </div>
 
 ## Projetos em Destaque
-- 🚀 [Acesse meu portfólio](https://gabrielndev.cloud)
+- 🚀 <a href="https://gabrielndev.cloud" target="_blank">Acesse meu portfólio</a>
 - 💻 Sempre em busca de novos desafios
 - 📊 Contribuições: veja meu portifólio acima! 🐍
 
