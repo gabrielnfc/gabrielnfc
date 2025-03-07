@@ -29,10 +29,10 @@
 
 ## Sobre mim
 
+<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <div>
   <p>Sou um desenvolvedor curioso, que já fez de tudo um pouco nessa vida, e hoje sigo fuçando e desvendando novas tecnologias para evoluir meus conhecimentos.</p>
-  
-  <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   - 🔭 Trabalhando com desenvolvimento web Full Stack
   - 🌱 Sempre aprendendo novas tecnologias
@@ -89,9 +89,9 @@
 </div>
 
 ## Projetos em Destaque
-- 🚀 [Acesse meu portfólio](https://github.com/gabrielnfc?tab=repositories)
+- 🚀 [Acesse meu portfólio](https://gabrielndev.cloud)
 - 💻 Sempre em busca de novos desafios
-- 📊 Contribuições: veja a cobrinha acima! 🐍
+- 📊 Contribuições: veja meu portifólio acima! 🐍
 
 ## Contato:
 <a href="https://api.whatsapp.com/qr/GFEOWFFQFLEZI1?autoload=1&app_absent=0" target="_blank">
