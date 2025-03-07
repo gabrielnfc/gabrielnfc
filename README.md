@@ -37,19 +37,19 @@
 </div>
 <br>
 
+## Sobre mim
 <div>
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-  ## Sobre mim
-  Sou um desenvolvedor curioso, que já fez de tudo um pouco nessa vida, e hoje sigo fuçando e desvendando novas tecnologias para evoluir meus conhecimentos.
+  <p>Sou um desenvolvedor curioso, que já fez de tudo um pouco nessa vida, e hoje sigo fuçando e desvendando novas tecnologias para evoluir meus conhecimentos.</p>
   
   - 🔭 Trabalhando com desenvolvimento web Full Stack
   - 🌱 Sempre aprendendo novas tecnologias
   - 💬 Pergunte-me sobre JavaScript, React e Node.js
+  
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ## Projetos em Destaque
-- 🚀 [Acesse meu portfólio](https://gabrielndev.cloud)
+- 🚀 [Acesse meu portfólio](https://github.com/gabrielnfc?tab=repositories)
 - 💻 Sempre em busca de novos desafios
 - 📊 Contribuições: veja a cobrinha acima! 🐍
 
