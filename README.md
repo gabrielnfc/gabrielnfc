@@ -51,7 +51,7 @@
 ## Projetos em Destaque
 - 🚀 [Acesse meu portfólio](https://github.com/gabrielnfc?tab=repositories)
 - 💻 Sempre em busca de novos desafios
-- 📊 Contribuições: veja a cobrinha acima! 🐍
+- 📊 Contribuições: veja no meu portifólio acima! 
 
 ## Estatísticas
 <div align="center">
