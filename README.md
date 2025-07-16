@@ -89,7 +89,7 @@
 </div>
 
 ## Projetos em Destaque
-- 🚀 <a href="https://gabrielndev.space" target="_blank">Acesse meu portfólio</a>
+- 🚀 <a href="https://www.gabrielndev.space/" target="_blank">Acesse meu portfólio</a>
 - 💻 Sempre em busca de novos desafios
 - 📊 Contribuições: veja meu portifólio acima! 🐍
 
