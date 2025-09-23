@@ -62,7 +62,7 @@
 - Experiência com **Redis**, **Neo4j** e **Pinecone** para caching, modelagem de grafos, vetorização e busca semântica
 
 ### Plataformas de IA & LLMs
-- Uso avançado de **OpenAI**, **Mid Journey**, **Devin** e **Vertex AI**
+- Uso avançado de **OpenAI**, **Claude**, **Vertex AI**, entre outros.
 - Integração via API com LLMs emergentes como **Cursor**, **Claude**, **Grok**, **Llama** e **GPT**
 
 ### Automação & Workflows
