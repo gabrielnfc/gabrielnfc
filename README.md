@@ -109,7 +109,7 @@ const gabriel = {
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -176,11 +176,21 @@ const gabriel = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&show_icons=true" alt="GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
