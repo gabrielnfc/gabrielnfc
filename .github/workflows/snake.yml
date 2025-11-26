@@ -10,10 +10,17 @@ on:
   # Permite execução manual a partir da aba Actions
   workflow_dispatch:
 
+  # Executa quando houver push na branch main
+  push:
+    branches:
+      - main
+
 # Configuração do job
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Checkout do repositório
       - uses: actions/checkout@v3
@@ -24,10 +31,10 @@ jobs:
         with:
           # GitHub username
           github_user_name: ${{ github.repository_owner }}
-          # Opções de saída - SVG com cores personalizadas
+          # Opções de saída - SVG com cores VERDES personalizadas
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#64a1f4,#4b91f1,#3c7dd9,#3069c7,#2554b5&color_dots=#c31432,#8a1e59,#240b36,#64a1f4,#4b91f1
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ff00,#00dd00,#00bb00,#009900,#007700&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
           
       # Faz push das alterações para o branch output
       - name: Push to GitHub output branch
