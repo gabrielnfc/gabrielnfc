@@ -33,9 +33,9 @@
 const gabriel = {
   role: "Full Stack Developer",
   location: "Vila Velha, ES - Brazil",
-  currentFocus: "Building scalable web applications & AI integration",
-  philosophy: "Always learning, always evolving",
-  interests: ["Web Development", "AI/ML", "Cloud Architecture", "Clean Code"]
+  currentFocus: "Building scalable applications",
+  philosophy: "Always learning, evolving",
+  interests: ["Web Dev", "AI/ML", "Cloud"]
 };
 ```
 
@@ -103,7 +103,11 @@ const gabriel = {
 
 ---
 
+<div align="center">
+
 ## 💼 Key Skills
+
+</div>
 
 <table>
 <tr>
@@ -171,12 +175,12 @@ const gabriel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&show_icons=true" alt="GitHub Stats" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
