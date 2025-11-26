@@ -15,13 +15,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/gabrielnfc">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-<div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   
   ![Snake animation](https://github.com/gabrielnfc/gabrielnfc/blob/output/github-contribution-grid-snake-dark.svg)
