@@ -48,7 +48,9 @@ const gabriel = {
 </td>
 <td width="40%">
 
-<img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 </td>
 </tr>
@@ -161,6 +163,28 @@ const gabriel = {
 <div align="center">
 
 ### 🌟 [Explore My Portfolio](https://www.gabrielndev.space/) 🌟
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/gabrielnfc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9"/>
+</a>
+
+<a href="https://github.com/gabrielnfc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielnfc&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
 
 </div>
 
