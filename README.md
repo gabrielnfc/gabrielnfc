@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnfc/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielnfc/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.gabrielndev.space/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.gabrielndev.space/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/GFEOWFFQFLEZI1?autoload=1&app_absent=0)
 
 </div>
@@ -25,6 +25,10 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```typescript
 const gabriel = {
   role: "Full Stack Developer",
@@ -35,13 +39,20 @@ const gabriel = {
 };
 ```
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🔭 **Currently:** Working with Full Stack development
 - 🌱 **Learning:** Always exploring new technologies
 - 💡 **Expertise:** JavaScript ecosystem, Python, Cloud solutions
 - 🎯 **Goal:** Creating impactful and scalable solutions
 - 💬 **Ask me about:** React, Node.js, AI integration, Cloud architecture
+
+</td>
+<td width="40%">
+
+<img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -148,13 +159,12 @@ const gabriel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielnfc&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnfc&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnfc&theme=merko&hide_border=true&background=0d1117)
 
 </div>
 
@@ -183,7 +193,7 @@ const gabriel = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=gabrielnfc&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gabrielnfc&style=for-the-badge&color=green" alt="Profile views"/>
 
 **⭐ From [gabrielnfc](https://github.com/gabrielnfc) with ❤️**
 
