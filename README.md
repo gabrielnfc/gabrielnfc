@@ -2,7 +2,7 @@
 
 # 👨‍💻 Gabriel Nascimento
 
-### Full Stack Developer | Machine Learning & AI Specialist | Cloud Architecture
+### Full Stack Developer | AI Enthusiast | Cloud Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnfc/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielnfc/)
@@ -14,9 +14,9 @@
 ---
 
 <div align="center">
-
+  
 ### 🐍 Contribution Activity 🐍
-
+  
 ![Snake animation](https://raw.githubusercontent.com/gabrielnfc/gabrielnfc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -25,21 +25,36 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```typescript
 const gabriel = {
-  role: "Full Stack Developer & ML Specialist",
+  role: "Full Stack Developer",
   location: "Vila Velha, ES - Brazil",
-  currentFocus: "Building scalable AI-powered applications",
-  philosophy: "Always learning, always evolving",
-  interests: ["Web Dev", "AI/ML", "Cloud", "Automation"]
+  currentFocus: "Building scalable applications",
+  philosophy: "Always learning, evolving",
+  interests: ["Web Dev", "AI/ML", "Cloud"]
 };
 ```
 
-- 🔭 **Currently:** Leading AI solutions for e-commerce, logistics & industrial planning at True
-- 🌱 **Learning:** Always exploring new technologies and AI frontiers
-- 💡 **Expertise:** JavaScript ecosystem, Python, Cloud solutions, LLM integration
-- 🎯 **Goal:** Creating impactful and scalable solutions with AI
-- 💬 **Ask me about:** React, Node.js, AI integration, Cloud architecture, LangChain, Vertex AI
+- 🔭 **Currently:** Working with Full Stack development
+- 🌱 **Learning:** Always exploring new technologies
+- 💡 **Expertise:** JavaScript ecosystem, Python, Cloud solutions
+- 🎯 **Goal:** Creating impactful and scalable solutions
+- 💬 **Ask me about:** React, Node.js, AI integration, Cloud architecture
+
+</td>
+<td width="40%">
+
+<div align="center">
+  <img alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,7 +149,7 @@ const gabriel = {
 <td width="50%" valign="top">
 
 ### 🤖 AI & Automation
-- 🧠 LLM integration (GPT, Claude, Gemini)
+- 🧠 LLM integration (GPT, Claude, etc)
 - 📊 Data analysis with Pandas/NumPy
 - 🕷️ Web scraping (Scrapy, Selenium)
 - 🔄 Workflow automation (N8N, Make)
@@ -166,7 +181,7 @@ const gabriel = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnfc/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielnfc/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/GFEOWFFQFLEZI1?autoload=1&app_absent=0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnfc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielnfc@example.com)
 
 ---
 
