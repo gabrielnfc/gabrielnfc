@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnfc/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielnfc/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gabrielndev.space/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gabrielndev.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/GFEOWFFQFLEZI1?autoload=1&app_absent=0)
 
 </div>
@@ -151,7 +151,7 @@ const gabriel = {
 
 <div align="center">
 
-### 🌟 [Explore My Portfolio](https://www.gabrielndev.space/) 🌟
+### 🌟 [Explore My Portfolio](https://www.gabrielndev.com/) 🌟
 
 </div>
 
